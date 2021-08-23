@@ -1,0 +1,24 @@
+body{
+  background-color: #FEC196
+}
+
+.Top{
+  text-align: center;
+  background-color: #AA767C;
+  padding-top: 4px;
+  padding-bottom: 10px;
+}
+
+.howTwo{
+  background-color: #AA767C;
+  margin-top: 50px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.FAQ{
+  background-color: #AA767C;
+  margin-top: 50px;
+  padding-bottom: 2px;
+  padding-top:2px;
+}
